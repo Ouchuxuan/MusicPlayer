@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        document.querySelector('html').style.fontSize = window.screen.width / 10 + 'px';
+    </script>
+    <link rel="stylesheet" href="./css/player.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--  Player Start   -->
+    <div class="player">
+        <!-- top start -->
+        <div class="p-top">
+            <div class="p-top-banck iconfont icon-fanhui"></div>
+            <div class="p-top-info">
+                <span class="p-top-info-name"></span>
+                <span class="p-top-info-author"></span>
+            </div>
+            <div class="p-top-share iconfont icon-fenxiang01"></div>
+        </div>
+        <!-- top end -->
+
+        <!-- body start -->
+        <div class="p-body">
+            <div class="p-body-ping">
+                <img src="./images/ping.png" alt="">
+            </div>
+            <audio class="audio"></audio>
+            <div class="p-body-img">
+                <img src="./audio/cover/red.JPG" alt="">
+            </div>
+            <div class="p-body-vol">
+                <div class="p-body-vol1">
+                    <div class="p-body-vol2"></div>
+                </div>
+            </div>
+            <div class="p-body-like">
+                <i class="iconfont icon-bofangqishouyeshoucang"></i>
+                <i class="iconfont icon-bofangqishouyexiazai"></i>
+                <i class="iconfont icon-pinglun"></i>
+                <i class="p-body-yinliang iconfont icon-yinliang"></i>
+            </div>
+        </div>
+        <!-- body end -->
+
+        <!-- bottom start -->
+        <div class="p-bottom">
+            <div class="p-bottom-step">
+                <span class="curr-time">00:00</span>
+                <div class="progress">
+                    <div class="progress-one">
+                        <div class="progress-tow"></div>
+                    </div>
+                </div>
+                <div class="total-time">00:00</div>
+            </div>
+            <div class="p-bottom-fun">
+                <div class="p-bottom-loop iconfont icon-liebiaoxunhuan"></div>
+                <div class="p-bottom-prev iconfont icon-bofangqi_shouyeshangyishou_"></div>
+                <div class="p-bottom-play iconfont icon-bofangzanting02"></div>
+                <div class="p-bottom-next iconfont icon-bofangqi_shouyexiayishou_"></div>
+                <div class="p-bottom-lis iconfont icon-iconfontyinleeps"></div>
+            </div>
+        </div>
+        <!-- bottom end -->
+
+        <!-- play List start -->
+        <div class="p-list">
+            <div class="p-list-hd iconfont icon-liebiaoxunhuan">&nbsp;&nbsp;播放音乐列表<span class="p-list-close fr">×</span></div>
+            <ul class="p-list-body">
+            </ul>
+        </div>
+        <!-- play List end -->
+    </div>
+    <!--    Player End     -->
+</body>
+<script src="./js/player.js"></script>
+
+</html>

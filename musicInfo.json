@@ -1,0 +1,125 @@
+[{
+        "name": "Sparks Fly",
+        "author": "Taylor Swift",
+        "src": "./audio/music/Taylor Swift - Sparks Fly.mp3",
+        "imgSrc": "./audio/cover/red.JPG"
+    },
+    {
+        "name": "We Are Never Ever Getting Back Together",
+        "author": "Taylor Swift",
+        "src": "./audio/music/Taylor Swift - We Are Never Ever Getting Back Together.mp3",
+        "imgSrc": "./audio/cover/swift.JPG"
+    },
+    {
+        "name": "Closer",
+        "author": "The Chainsmokers",
+        "src": "./audio/music/The Chainsmokers - Closer.mp3",
+        "imgSrc": "./audio/cover/closer.JPG"
+
+    },
+    {
+        "name": "The Sound",
+        "author": "The 1975",
+        "src": "./audio/music/The 1975 - The Sound.mp3",
+        "imgSrc": "./audio/cover/thesund.JPG"
+
+    },
+    {
+        "name": "Try",
+        "author": "P!nk",
+        "src": "./audio/music/P!nk - Try.mp3",
+        "imgSrc": "./audio/cover/pink.JPG"
+
+    },
+    {
+        "name": "Just Give Me A Reason",
+        "author": "P!nk",
+        "src": "./audio/music/P!nk - Just Give Me A Reason.mp3",
+        "imgSrc": "./audio/cover/pink-just.JPG"
+
+    },
+    {
+        "name": " Rolling In The Deep",
+        "author": "Adele",
+        "src": "./audio/music/Adele - Rolling In The Deep.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Someone Like You",
+        "author": "Adele",
+        "src": "./audio/music/Adele - Someone Like You.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Cheap Thrills.mp3",
+        "author": "Sia",
+        "src": "./audio/music/Sia - Cheap Thrills.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": " Wicked Love",
+        "author": "Foxes",
+        "src": "./audio/music/Foxes - Wicked Love.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Real Love",
+        "author": "Florrie",
+        "src": "./audio/music/Florrie - Real Love.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "바람이나 좀 쐐",
+        "author": "Gary",
+        "src": "./audio/music/Gary - 바람이나 좀 쐐.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Zaynah",
+        "author": "Kate Linn",
+        "src": "./audio/music/Kate Linn - Zaynah.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "SAin't Nobody.mp3",
+        "author": "KStewart",
+        "src": "./audio/music/KStewart - Ain't Nobody.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Lone Ranger.mp3",
+        "author": "Rachel Platten",
+        "src": "./audio/music/Rachel Platten - Lone Ranger.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Es rappelt im Karton",
+        "author": "Pixie Paris",
+        "src": "./audio/music/Pixie Paris - Es rappelt im Karton.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "LUBOV",
+        "author": "Various Artists",
+        "src": "./audio/music/Various Artists - LUBOV.mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    },
+    {
+        "name": "Living Out Loud (Madison Mars Remix)",
+        "author": "Brooke Candy",
+        "src": "./audio/music/Brooke Candy - Living Out Loud (Madison Mars Remix).mp3",
+        "imgSrc": "./audio/cover/adele.JPG"
+
+    }
+]
